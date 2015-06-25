@@ -1,2 +1,4 @@
+
 repository <----> project
 commit <-----> put files into repository
+There is staging area between files and repository 
