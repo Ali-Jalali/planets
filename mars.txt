@@ -2,3 +2,6 @@
 repository <----> project
 commit <-----> put files into repository
 There is staging area between files and repository 
+How to undo the edited files? using the git checkout --name.txt
+or we can use the characters to choose go between different versions
+Or using checkout we can go to different versions.
